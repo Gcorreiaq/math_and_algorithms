@@ -6,5 +6,3 @@ The equation:
 
 ![program](program.png)
 
-[More information.](https://gitlab.com/Gcorreiaq/web/-/blob/main/posts/taylor.md)
-
